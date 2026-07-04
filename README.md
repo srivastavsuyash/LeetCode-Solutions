@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
