@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
