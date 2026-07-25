@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
