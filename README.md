@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
