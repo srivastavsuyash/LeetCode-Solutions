@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
