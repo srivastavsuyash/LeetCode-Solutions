@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
