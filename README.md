@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
