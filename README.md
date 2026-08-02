@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
