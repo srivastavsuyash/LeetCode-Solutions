@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0796-rotate-string) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
