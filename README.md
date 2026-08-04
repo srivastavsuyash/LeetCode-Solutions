@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 ## Stack
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
