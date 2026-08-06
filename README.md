@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
