@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0796-rotate-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0050-powx-n) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
