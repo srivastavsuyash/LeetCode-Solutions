@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0796-rotate-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
