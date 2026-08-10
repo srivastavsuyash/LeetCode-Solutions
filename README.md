@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 ## Stack
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -209,4 +212,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1221-split-a-string-in-balanced-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
