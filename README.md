@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
