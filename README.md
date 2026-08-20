@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
