@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
