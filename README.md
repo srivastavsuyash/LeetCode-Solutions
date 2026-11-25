@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0070-climbing-stairs) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0020-valid-parentheses) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0053-maximum-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srivastavsuyash/LeetCode-QuestionsWithSolutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
